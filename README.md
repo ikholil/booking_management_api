@@ -1,48 +1,4 @@
 
-# API endpoint list
-https://assignment8-mu.vercel.app/api/v1/auth/signup (POST)
-https://assignment8-mu.vercel.app/api/v1/users (GET)
-https://assignment8-mu.vercel.app/api/v1/users/7a20ed98-193b-4868-800e-014cbe42b13c (Single GET) 
-https://assignment8-mu.vercel.app/api/v1/users/d5ee00ac-be4b-4aa8-8297-909f42ee466f (PATCH)
-https://assignment8-mu.vercel.app/api/v1/users/d5ee00ac-be4b-4aa8-8297-909f42ee466f (DELETE) 
-https://assignment8-mu.vercel.app/api/v1/profile (GET) 
-
-Category
-https://assignment8-mu.vercel.app/api/v1/categories/create-category (POST)
-https://assignment8-mu.vercel.app/api/v1/categories (GET)
-https://assignment8-mu.vercel.app/api/v1/categories/2bead702-4aa6-4733-9ba4-79bf5275abd6 (Single GET) 
-https://assignment8-mu.vercel.app/api/v1/categories/2bead702-4aa6-4733-9ba4-79bf5275abd6 (PATCH)
-https://assignment8-mu.vercel.app/api/v1/categories/2bead702-4aa6-4733-9ba4-79bf5275abd6 (DELETE) 
-
-Books
-https://assignment8-mu.vercel.app/api/v1/books/create-book (POST)
-https://assignment8-mu.vercel.app/api/v1/books (GET)
-https://assignment8-mu.vercel.app/api/v1/books/category/2bead702-4aa6-4733-9ba4-79bf5275abd6 (GET)
-https://assignment8-mu.vercel.app/api/v1/books/15aeb434-2204-4d49-8ef9-92fd3ee89b7b (GET)
-https://assignment8-mu.vercel.app/api/v1/books/15aeb434-2204-4d49-8ef9-92fd3ee89b7b (PATCH)
-https://assignment8-mu.vercel.app/api/v1/books/15aeb434-2204-4d49-8ef9-92fd3ee89b7b (DELETE)
-
-
-Orders
-https://assignment8-mu.vercel.app/api/v1/orders/create-order (POST)
-https://assignment8-mu.vercel.app/api/v1/orders (GET)
-https://assignment8-mu.vercel.app/api/v1/orders/:orderId (GET)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Book store management api
 This guide will walk you through the process of setting up the Book store management api Starter project. By following these steps, you will clone the project, install dependencies, and configure Prisma for database management. Let's get started!
